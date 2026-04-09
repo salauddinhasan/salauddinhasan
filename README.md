@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-আমি একজন মডার্ন frontend developer — জটিল আইডিয়াকে সহজ ও সুন্দর ইউজার ইন্টারফেসে রূপান্তর করাই আমার কাজ।
+আমি একজন frontend developer — জটিল আইডিয়াকে সহজ ও সুন্দর ইউজার ইন্টারফেসে রূপান্তর করাই আমার কাজ।
 
 - 🔭 **Building:** A Next-Gen Tourism Platform with real-time features
 - ⚡ **Exploring:** React Server Components & Next.js 15+ optimization
