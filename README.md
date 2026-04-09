@@ -11,7 +11,7 @@
 - 🔭 **Building:** A Next-Gen Tourism Platform with real-time features
 - ⚡ **Exploring:** React Server Components & Next.js 15+ optimization
 - 💬 **Core Skills:** React 18, Tailwind CSS, Firebase, State Management
-- 📫 **Contact:** [salauddin@example.com](mailto:salauddin@example.com)
+- 📫 **Contact:**  salauddinhasan244@gmail.com
 
 ---
 
