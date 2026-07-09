@@ -6,12 +6,14 @@
 
 ## 🧑‍💻 About Me
 
-আমি একজন frontend developer — জটিল আইডিয়াকে সহজ ও সুন্দর ইউজার ইন্টারফেসে রূপান্তর করাই আমার কাজ।
+I am a passionate Frontend Developer who enjoys building modern, responsive, and user-friendly web applications. I love turning ideas into clean and interactive digital experiences using React, Next.js, and Tailwind CSS. I am continuously learning new technologies and improving my problem-solving skills.
 
-- 🔭 **Building:** A Next-Gen Tourism Platform with real-time features
-- ⚡ **Exploring:** React Server Components & Next.js 15+ optimization
-- 💬 **Core Skills:** React 18, Tailwind CSS, Firebase, State Management
-- 📫 **Contact:**  salauddinhasan244@gmail.com
+## 🔭 Current Activities
+
+- 🌱 Exploring Next.js 15 and React Server Components
+- 🚀 Building a modern Tourism Booking Platform
+- 💡 Improving my problem-solving skills with JavaScript and React
+- 📚 Learning backend development with Node.js and Express.js
 
 ---
 
